@@ -1,0 +1,25 @@
+{
+    "RolePermission": {
+        "migration": [
+            "2014_12_01_000001_create_iiit_roles_table.php",
+            "2020_04_11_141636_create_iiit_module_infos_table.php",
+            "2020_04_12_125728_create_iiit_permission_assigns_table.php",
+            "2020_04_16_064434_create_iiit_module_student_parent_infos_table.php"
+        ],
+        "names": [
+            "iiit_roles",
+            "iiit_module_infos",
+            "iiit_permission_assigns",
+            "iiit_module_student_parent_infos"
+        ],
+        "versions": [
+            "0.1"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This is Role Permission Module for manage module. Thanks for using."
+        ]
+    }
+}
